@@ -1,2 +1,2 @@
 # hello-world
-lean GitHub
+lean GitHub branching and merging
